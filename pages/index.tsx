@@ -3,9 +3,7 @@ import Layout from "components/layout/Layout";
 const HomePage = (): JSX.Element => {
     return (
         <Layout>
-            <div className="w-screen h-screen">
-                <p>This is a webpage</p>
-            </div>
+            <h1>This is a webpage</h1>
         </Layout>
     );
 };
