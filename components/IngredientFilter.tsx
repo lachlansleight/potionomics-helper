@@ -149,6 +149,7 @@ const IngredientFilterControls = ({
                             value.magiminFactor === i ? "" : "bg-opacity-0"
                         }`}
                         onClick={() => onChange({ ...value, magiminFactor: i })}
+                        title={i === 1 ? "Allow all magimin values" : `Magimin value must be divisible by ${i}`}
                     >
                         {i}
                     </div>

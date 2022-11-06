@@ -201,7 +201,7 @@ const IngredientHeader = ({
                 Price
             </p>
             <div
-                title="Value: Total Magimims divided by price"
+                title="Value: Total Magimins divided by price"
                 onClick={() => handleClick("Value")}
                 style={getStyle("Value", value, 0)}
                 className="flex w-20 justify-center items-center"
