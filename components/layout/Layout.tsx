@@ -5,12 +5,10 @@ const Layout = ({ children }: { children: ReactNode }): JSX.Element => {
     return (
         <>
             <Head>
-                <title>An Unnamed Space</title>
+                <title>Potionomics Helper</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            <main className="min-h-screen">
-                {children}
-            </main>
+            <main className="min-h-screen bg-neutral-800 text-white">{children}</main>
         </>
     );
 };

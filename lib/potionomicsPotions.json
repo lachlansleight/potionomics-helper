@@ -1,0 +1,842 @@
+{
+    "health": {
+        "name": "Health Potion",
+        "recipe": [1, 1, 0, 0, 0],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/b/b8/Health_Potion1S.png",
+                "rank": "Minor",
+                "effect": "Fortifies your hero's health by 5.",
+                "description": "Reignite the spark of life! This essential elixir heals sore muscles and headaches."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/6/61/Health_Potion2.png",
+                "rank": "Common",
+                "effect": "Fortifies your hero's health by 10.",
+                "description": "Reignite the spark of life! This essential elixir heals scrapes and bruises."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/5/56/Health_Potion3.png",
+                "rank": "Greater",
+                "effect": "Fortifies your hero's health by 17.",
+                "description": "Reignite the spark of life! This essential elixir heals minor cuts."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/9/9e/Health_Potion4.png",
+                "rank": "Grand",
+                "effect": "Fortifies your hero's health by 30.",
+                "description": "Reignite the spark of life! This essential elixir heals broken bones and stems blood loss."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/2/23/Health_Potion5.png",
+                "rank": "Superior",
+                "effect": "Fortifies your hero's health by 50.",
+                "description": "Reignite the spark of life! This essential elixir heals traumatic physical injury."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/9/9f/Health_Potion6.png",
+                "rank": "Masterwork",
+                "effect": "Fortifies your hero's health by 80.",
+                "description": "Reignite the spark of life! This uncanny elixir can bring you back from the brink of death."
+            }
+        ]
+    },
+    "mana": {
+        "name": "Mana Potion",
+        "recipe": [0, 1, 1, 0, 0],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/2/20/Mana_Potion1.png",
+                "rank": "Minor",
+                "effect": "Fortifies your hero's mana by 1.",
+                "description": "Taste the magic! This mystical mixture restores a mote of magical energy and willpower."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/f/f7/Mana_Potion2.png",
+                "rank": "Common",
+                "effect": "Fortifies your hero's mana by 2.",
+                "description": "Taste the magic! Restores enough energy to power minor cantrips and basic weapon attacks."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/0/03/Mana_Potion3.png",
+                "rank": "Greater",
+                "effect": "Fortifies your hero's mana by 3.",
+                "description": "Taste the magic! Restores enough energy to power signature spells and well-practiced combat moves."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/a/a5/Mana_Potion4.png",
+                "rank": "Grand",
+                "effect": "Fortifies your hero's mana by 4.",
+                "description": "Taste the magic! Restores enough energy to power intricate incantations and fancy footwork."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/a/af/Mana_Potion5.png",
+                "rank": "Superior",
+                "effect": "Fortifies your hero's mana by 6.",
+                "description": "Taste the magic! Restores enough energy to power complex rituals and special attacks."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/b/b9/Mana_Potion6.png",
+                "rank": "Masterwork",
+                "effect": "Fortifies your hero's mana by 8.",
+                "description": "Taste the magic! With this top-tier tincture, you'll be able to move mountains with your mind."
+            }
+        ]
+    },
+    "stamina": {
+        "name": "Stamina Potion",
+        "recipe": [1, 0, 0, 0, 1],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/9/9b/Stamina_Potion1.png",
+                "rank": "Minor",
+                "effect": "Allows your hero to retrieve 2 additional pieces of loot.",
+                "description": "Limitations are strictly optional. This strength-enhancing potion increases carrying capacity by a few pounds."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/6/66/Stamina_Potion2.png",
+                "rank": "Common",
+                "effect": "Allows your hero to retrieve 4 additional pieces of loot.",
+                "description": "Limitations are strictly optional. Enhances muscle fiber, allowing you to carry considerably more."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/9/9a/Stamina_Potion3.png",
+                "rank": "Greater",
+                "effect": "Allows your hero to retrieve 6 additional pieces of loot.",
+                "description": "Limitations are strictly optional. Reinforces muscles and skeletal structure, allowing you to carry significantly more."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/5/50/Stamina_Potion4.png",
+                "rank": "Grand",
+                "effect": "Allows your hero to retrieve 8 additional pieces of loot.",
+                "description": "Limitations are strictly optional. Heightens strength to the natural limits of a peak athlete."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/e/e8/Stamina_Potion5.png",
+                "rank": "Superior",
+                "effect": "Allows your hero to retrieve 10 additional pieces of loot.",
+                "description": "Limitations are strictly optional. Bestows supernatural strength."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/8/83/Stamina_Potion6.png",
+                "rank": "Masterwork",
+                "effect": "Allows your hero to retrieve 12 additional pieces of loot.",
+                "description": "Limitations are strictly optional. With this metabolic marvel, your upper limit is off the charts."
+            }
+        ]
+    },
+    "speed": {
+        "name": "Speed Potion",
+        "recipe": [0, 0, 1, 1, 0],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/9/91/Speed_Potion1.png",
+                "rank": "Minor",
+                "effect": "Reduces the time required to complete the current adventure by 1 time slot(s).",
+                "description": "Will you be the quick or the dead? This stimulating potion puts a bit of pep in your step."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/b/b1/Speed_Potion2.png",
+                "rank": "Common",
+                "effect": "Reduces the time required to complete the current adventure by 2 time slot(s).",
+                "description": "Will you be the quick or the dead? Allows you to sprint ahead of the competition."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/4/40/Speed_Potion3.png",
+                "rank": "Greater",
+                "effect": "Reduces the time required to complete the current adventure by 3 time slot(s).",
+                "description": "Will you be the quick or the dead? When you move like the wind, life is a breeze."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/5/55/Speed_Potion4.png",
+                "rank": "Grand",
+                "effect": "Reduces the time required to complete the current adventure by 4 time slot(s).",
+                "description": "Will you be the quick or the dead? Provides a shortcut to greatness. Blink and you'll miss it!"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/2/20/Speed_Potion5.png",
+                "rank": "Superior",
+                "effect": "Reduces the time required to complete the current adventure by 5 time slot(s).",
+                "description": "Will you be the quick or the dead? Embrace your inner speed demon and get. It. Done."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/a/a9/Speed_Potion6.png",
+                "rank": "Masterwork",
+                "effect": "Reduces the time required to complete the current adventure by 6 time slot(s).",
+                "description": "Will you be the quick or the dead? This masterful mixture lets you achieve terminal velocity."
+            }
+        ]
+    },
+    "tolerance": {
+        "name": "Tolerance Potion",
+        "recipe": [0, 0, 0, 1, 1],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/1/10/Tolerance_Potion1.png",
+                "rank": "Minor",
+                "effect": "Allows your hero to drink 2 more potions on their current adventure.",
+                "description": "There's always room for more potions. This fortifying potion helps to prevent an upset stomach."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/1/10/Tolerance_Potion2.png",
+                "rank": "Common",
+                "effect": "Allows your hero to drink 3 more potions on their current adventure.",
+                "description": "There's always room for more potions. Allows you to overcome heartburn, bloating, and unforeseen side effects from mixing potions."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/8/80/Tolerance_Potion3.png",
+                "rank": "Greater",
+                "effect": "Allows your hero to drink 4 more potions on their current adventure.",
+                "description": "There's always room for more potions. Shores up your body's overall resilience, allowing for multiple potion effects."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/3/3d/Tolerance_Potion4.png",
+                "rank": "Grand",
+                "effect": "Allows your hero to drink 5 more potions on their current adventure.",
+                "description": "There's always room for more potions. Increases your constitution, allowing you to imbibe a significant volume."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/d/d4/Tolerance_Potion5.png",
+                "rank": "Superior",
+                "effect": "Allows your hero to drink 6 more potions on their current adventure.",
+                "description": "There's always room for more potions. Expands your stomach so that you can imbibe far beyond your normal capacity."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/d/d1/Tolerance_Potion6.png",
+                "rank": "Masterwork",
+                "effect": "Allows your hero to drink 7 more potions on their current adventure.",
+                "description": "There's always room for more potions. This masterwork allows you to enjoy the benefits of a cast-iron stomach."
+            }
+        ]
+    },
+    "fire": {
+        "name": "Fire Tonic",
+        "recipe": [1, 0, 1, 0, 0],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/2/29/Fire_Tonic1.png",
+                "rank": "Minor",
+                "effect": "Blocks 3 points of fire damage to your hero.",
+                "description": "The world's on fire. Don't get burned! This tonic provides resistance to the heat AND the humidity."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/4/47/Fire_Tonic2.png",
+                "rank": "Common",
+                "effect": "Blocks 5 points of fire damage to your hero.",
+                "description": "The world's on fire. Don't get burned! Grants protection from sunburn and heat stroke."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/f/fe/Fire_Tonic3.png",
+                "rank": "Greater",
+                "effect": "Blocks 8 points of fire damage to your hero.",
+                "description": "The world's on fire. Don't get burned! Provides resistance to first- and second-degree burns."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/d/d9/Fire_Tonic4.png",
+                "rank": "Grand",
+                "effect": "Blocks 12 points of fire damage to your hero.",
+                "description": "The world's on fire. Don't get burned! Provides resistance to third-degree burns (but it won't save your eyebrows)."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/5/51/Fire_Tonic5.png",
+                "rank": "Superior",
+                "effect": "Blocks 20 points of fire damage to your hero.",
+                "description": "The world's on fire. Don't get burned! Grants fleeting protection against fireball spells and lava."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/c/c8/Fire_Tonic6.png",
+                "rank": "Masterwork",
+                "effect": "Blocks 35 points of fire damage to your hero.",
+                "description": "The world's on fire. Don't get burned! This top-tier tonnic makes you temporarily fireproof."
+            }
+        ]
+    },
+    "ice": {
+        "name": "Ice Tonic",
+        "recipe": [0, 1, 0, 1, 0],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/2/28/Ice_Tonic1.png",
+                "rank": "Minor",
+                "effect": "Blocks 3 points of ice damage to your hero.",
+                "description": "Don't let life give you the cold shoulder. This tonic provides resistance to snowball damage."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/2/2b/Ice_Tonic2.png",
+                "rank": "Common",
+                "effect": "Blocks 5 points of ice damage to your hero.",
+                "description": "Don't let life give you the cold shoulder. Takes the edge off a chill wind."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/0/0f/Ice_Tonic3.png",
+                "rank": "Greater",
+                "effect": "Blocks 8 points of ice damage to your hero.",
+                "description": "Don't let life give you the cold shoulder. Lessens damage taken from projectile icicles."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/0/09/Ice_Tonic4.png",
+                "rank": "Grand",
+                "effect": "Blocks 12 points of ice damage to your hero.",
+                "description": "Don't let life give you the cold shoulder. Prevents hypothermia."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/b/b3/Ice_Tonic5.png",
+                "rank": "Superior",
+                "effect": "Blocks 20 points of ice damage to your hero.",
+                "description": "Don't let life give you the cold shoulder. Makes a blizzard feel like a day in the park."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/3/38/Ice_Tonic6.png",
+                "rank": "Masterwork",
+                "effect": "Blocks 35 points of ice damage to your hero.",
+                "description": "Don't let life give you the cold shoulder. Shrug off frostbite with the best elemental protection that money can buy."
+            }
+        ]
+    },
+    "thunder": {
+        "name": "Thunder Tonic",
+        "recipe": [0, 1, 0, 1, 0],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/1/1d/Thunder_Tonic1.png",
+                "rank": "Minor",
+                "effect": "Blocks 3 points of thunder damage to your hero.",
+                "description": "Stay grounded when life brings the thunder. This tonic protects you from static shocks."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/f/f8/Thunder_Tonic2.png",
+                "rank": "Common",
+                "effect": "Blocks 5 points of thunder damage to your hero.",
+                "description": "Stay grounded when life brings the thunder. Allows you to endure minor voltage."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/9/94/Thunder_Tonic3.png",
+                "rank": "Greater",
+                "effect": "Blocks 8 points of thunder damage to your hero.",
+                "description": "Stay grounded when life brings the thunder. Provides protection from larger jolts."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/9/9d/Thunder_Tonic4.png",
+                "rank": "Grand",
+                "effect": "Blocks 12 points of thunder damage to your hero.",
+                "description": "Stay grounded when life brings the thunder. Provides resistance to lightning, both magical and mundane."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/4/4c/Thunder_Tonic5.png",
+                "rank": "Superior",
+                "effect": "Blocks 20 points of thunder damage to your hero.",
+                "description": "Stay grounded when life brings the thunder. Insulates you against sustained electrical currents."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/c/cf/Thunder_Tonic6.png",
+                "rank": "Masterwork",
+                "effect": "Blocks 35 points of thunder damage to your hero.",
+                "description": "Stay grounded when life brings the thunder. Enjoy near-total immunity to shock damage with this masterful potion."
+            }
+        ]
+    },
+    "shadow": {
+        "name": "Shadow Tonic",
+        "recipe": [0, 1, 0, 0, 1],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/6/69/Shadow_Tonic1.png",
+                "rank": "Minor",
+                "effect": "Blocks 3 points of shadow damage to your hero.",
+                "description": "Things going bump in the night? Bump right back. Like bottled sunshine, this tonic provides mild resistance to elemental shadow."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/2/22/Shadow_Tonic2.png",
+                "rank": "Common",
+                "effect": "Blocks 5 points of shadow damage to your hero.",
+                "description": "Things going bump in the night? Bump right back. Protects against vitality-sapping spells."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/8/8c/Shadow_Tonic3.png",
+                "rank": "Greater",
+                "effect": "Blocks 8 points of shadow damage to your hero.",
+                "description": "Things going bump in the night? Bump right back. Defends against fear-inducing spells."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/b/b1/Shadow_Tonic4.png",
+                "rank": "Grand",
+                "effect": "Blocks 12 points of shadow damage to your hero.",
+                "description": "Things going bump in the night? Bump right back. Shores up your resistance to vile necromancy."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/e/e2/Shadow_Tonic5.png",
+                "rank": "Superior",
+                "effect": "Blocks 20 points of shadow damage to your hero.",
+                "description": "Things going bump in the night? Bump right back. Provides divine protection against undead and supernatural foes."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/4/47/Shadow_Tonic6.png",
+                "rank": "Masterwork",
+                "effect": "Blocks 35 points of shadow damage to your hero.",
+                "description": "Things going bump in the night? Bump right back. With total immunity to dark magic, the only thing to fear in the dark... will be you."
+            }
+        ]
+    },
+    "radiation": {
+        "name": "Radiation Tonic",
+        "recipe": [0, 0, 1, 0, 1],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/a/a9/Radiation_Tonic1.png",
+                "rank": "Minor",
+                "effect": "Blocks 3 points of radiation damage to your hero.",
+                "description": "Fear no fallout. This protective potion blocks the effects of background radiation."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/5/56/Radiation_Tonic2.png",
+                "rank": "Common",
+                "effect": "Blocks 5 points of radiation damage to your hero.",
+                "description": "Fear no fallout. Lets you dip a toe into irradiated regions."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/5/58/Radiation_Tonic3.png",
+                "rank": "Greater",
+                "effect": "Blocks 8 points of radiation damage to your hero.",
+                "description": "Fear no fallout. Protects against the short-term effects of radiation poisoning."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/b/b4/Radiation_Tonic4.png",
+                "rank": "Grand",
+                "effect": "Blocks 12 points of radiation damage to your hero.",
+                "description": "Fear no fallout. Prevents radiation sickness and sudden bouts of mutation."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/e/ec/Radiation_Tonic5.png",
+                "rank": "Superior",
+                "effect": "Blocks 20 points of radiation damage to your hero.",
+                "description": "Fear no fallout. Grants protection against irradiated beasts and death rays."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/8/8e/Radiation_Tonic6.png",
+                "rank": "Masterwork",
+                "effect": "Blocks 35 points of radiation damage to your hero.",
+                "description": "Fear no fallout. First-rate hazmat shielding prevents magical radiation from ruining your day, even at ground zero."
+            }
+        ]
+    },
+    "sight": {
+        "name": "Sight Enhancer",
+        "recipe": [3, 4, 3, 0, 0],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/4/45/Sight_Enhancer1.png",
+                "rank": "Minor",
+                "effect": "Increases the change that your hero will retrieve extra loot from any monster or hazard by 10%",
+                "description": "Keep your eyes on the prize. This corrective potion compensates for mino vision defects."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/a/a3/Sight_Enhancer2.png",
+                "rank": "Common",
+                "effect": "Increases the change that your hero will retrieve extra loot from any monster or hazard by 15%",
+                "description": "Keep your eyes on the prize. Temporarily corrects nearsightedness, farsightedness, and astigmatism."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/c/cb/Sight_Enhancer3.png",
+                "rank": "Greater",
+                "effect": "Increases the change that your hero will retrieve extra loot from any monster or hazard by 25%",
+                "description": "Keep your eyes on the prize. Enhances vision slightly beyond human norms."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/7/7e/Sight_Enhancer4.png",
+                "rank": "Grand",
+                "effect": "Increases the change that your hero will retrieve extra loot from any monster or hazard by 35%",
+                "description": "Keep your eyes on the prize. Grants telescopic and microscopic vision."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/f/fe/Sight_Enhancer5.png",
+                "rank": "Superior",
+                "effect": "Increases the change that your hero will retrieve extra loot from any monster or hazard by 50%",
+                "description": "Keep your eyes on the prize. Bestows infrared vision, increasing perception by a great degree."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/f/fc/Sight_Enhancer6.png",
+                "rank": "Masterwork",
+                "effect": "Increases the change that your hero will retrieve extra loot from any monster or hazard by 75%",
+                "description": "Keep your eyes on the prize. Find a needle in a haystack at a hundred yards with this unrivaled sight-enhancing concoction."
+            }
+        ]
+    },
+    "alertness": {
+        "name": "Alertness Enhancer",
+        "recipe": [0, 3, 4, 3, 0],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/4/47/Alertness_Enhancer1.png",
+                "rank": "Minor",
+                "effect": "Increases the change that your hero will retrieve ingredients with good traits by 10%.",
+                "description": "Roll for initiative. This galvanizing potion grants a trivial boost to focus."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/c/c0/Alertness_Enhancer2.png",
+                "rank": "Common",
+                "effect": "Increases the change that your hero will retrieve ingredients with good traits by 15%.",
+                "description": "Roll for initiative. Provides relief from persistent distractions."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/4/49/Alertness_Enhancer3.png",
+                "rank": "Greater",
+                "effect": "Increases the change that your hero will retrieve ingredients with good traits by 25%.",
+                "description": "Roll for initiative. Amplifies the drinker's mental concentration."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/2/2e/Alertness_Enhancer4.png",
+                "rank": "Grand",
+                "effect": "Increases the change that your hero will retrieve ingredients with good traits by 35%.",
+                "description": "Roll for initiative. Enhances awareness beyond the average baseline of your species."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/7/76/Alertness_Enhancer5.png",
+                "rank": "Superior",
+                "effect": "Increases the change that your hero will retrieve ingredients with good traits by 50%.",
+                "description": "Roll for initiative. Become a parangon of focus—and impervious to unwelcome surprises."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/3/34/Alertness_Enhancer6.png",
+                "rank": "Masterwork",
+                "effect": "Increases the change that your hero will retrieve ingredients with good traits by 75%.",
+                "description": "Roll for initiative. Finding what you're looking for is easy with the mystic metaconsciousness this potion provides."
+            }
+        ]
+    },
+    "insight": {
+        "name": "Insight Enhancer",
+        "recipe": [4, 3, 0, 0, 3],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/c/c2/Insight_Enhancer1.png",
+                "rank": "Minor",
+                "effect": "Increases the change that your hero will retrieve rarer ingredients by 10%.",
+                "description": "Wisdom in a bottle. This perception-boosting potion bestows a bit of savvy."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/f/fe/Insight_Enhancer2.png",
+                "rank": "Common",
+                "effect": "Increases the change that your hero will retrieve rarer ingredients by 15%.",
+                "description": "Wisdom in a bottle. Increases perception and investigative acumen."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/6/67/Insight_Enhancer3.png",
+                "rank": "Greater",
+                "effect": "Increases the change that your hero will retrieve rarer ingredients by 25%.",
+                "description": "Wisdom in a bottle. Grants a more refined level of discernment."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/3/3a/Insight_Enhancer4.png",
+                "rank": "Grand",
+                "effect": "Increases the change that your hero will retrieve rarer ingredients by 35%.",
+                "description": "Wisdom in a bottle. Boosts your understanding of nature and other complex systems."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/6/6d/Insight_Enhancer5.png",
+                "rank": "Superior",
+                "effect": "Increases the change that your hero will retrieve rarer ingredients by 50%.",
+                "description": "Wisdom in a bottle. Sharpens insight to a supernatural degree."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/3/3f/Insight_Enhancer6.png",
+                "rank": "Masterwork",
+                "effect": "Increases the change that your hero will retrieve rarer ingredients by 75%.",
+                "description": "Wisdom in a bottle. This potent concoction pries open your third eye, laying bare secrets both natural and arcane."
+            }
+        ]
+    },
+    "dowsing": {
+        "name": "Dowsing Enhancer",
+        "recipe": [3, 0, 0, 3, 4],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/e/e9/Dowsing_Enhancer1.png",
+                "rank": "Minor",
+                "effect": "Increases the change that your hero will retrieve multi-magimin ingredients by 10%.",
+                "description": "Follow your gut. This instinct-boosting potion makees you feel a tickle in the presence of magic."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/f/f6/Dowsing_Enhancer2.png",
+                "rank": "Common",
+                "effect": "Increases the change that your hero will retrieve multi-magimin ingredients by 15%.",
+                "description": "Follow your gut. Allows you to feel a subtle tug toward nearby magical items."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/7/73/Dowsing_Enhancer3.png",
+                "rank": "Greater",
+                "effect": "Increases the change that your hero will retrieve multi-magimin ingredients by 25%.",
+                "description": "Follow your gut. Grants an unmistakable pull toward objects of magical purpose."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/5/5f/Dowsing_Enhancer4.png",
+                "rank": "Grand",
+                "effect": "Increases the change that your hero will retrieve multi-magimin ingredients by 35%.",
+                "description": "Follow your gut. Leads you right to magical loot, if it's not too far away."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/f/f0/Dowsing_Enhancer5.png",
+                "rank": "Superior",
+                "effect": "Increases the change that your hero will retrieve multi-magimin ingredients by 50%.",
+                "description": "Follow your gut. Become a compass for quality, always knowing where to look for high concentrations of magic."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/5/50/Dowsing_Enhancer6.png",
+                "rank": "Masterwork",
+                "effect": "Increases the change that your hero will retrieve multi-magimin ingredients by 75%.",
+                "description": "Follow your gut. This peerless potion makes you a veritable magnet for items of magical puissance."
+            }
+        ]
+    },
+    "seeking": {
+        "name": "Seeking Enhancer",
+        "recipe": [0, 0, 3, 4, 3],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/e/ee/Seeking_Enhancer1.png",
+                "rank": "Minor",
+                "effect": "Increases the change that your hero will retrieve  ingredients containing rarer magimins by 10%.",
+                "description": "Seek, and you shall find. This sought-after potion gives a mystical hunch about where to find misplaced keys, lost socks, and more."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/e/e1/Seeking_Enhancer2.png",
+                "rank": "Common",
+                "effect": "Increases the change that your hero will retrieve  ingredients containing rarer magimins by 15%.",
+                "description": "Seek, and you shall find. Sends vague dreams and premonitions about the location of coveted items."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/1/13/Seeking_Enhancer3.png",
+                "rank": "Greater",
+                "effect": "Increases the change that your hero will retrieve  ingredients containing rarer magimins by 25%.",
+                "description": "Seek, and you shall find. Bestows a supernatural intuition to help you find what you crave."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/8/8d/Seeking_Enhancer4.png",
+                "rank": "Grand",
+                "effect": "Increases the change that your hero will retrieve  ingredients containing rarer magimins by 35%.",
+                "description": "Seek, and you shall find. Confers a robust sixth sense to guide you on a successful hunt."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/8/85/Seeking_Enhancer5.png",
+                "rank": "Superior",
+                "effect": "Increases the change that your hero will retrieve  ingredients containing rarer magimins by 50%.",
+                "description": "Seek, and you shall find. Full-blown clairvoyance makes questing a foregone conclusion."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/d/de/Seeking_Enhancer6.png",
+                "rank": "Masterwork",
+                "effect": "Increases the change that your hero will retrieve  ingredients containing rarer magimins by 75%.",
+                "description": "Seek, and you shall find. Gaze through the mists of time to unfailingly locate the objects of your desire!"
+            }
+        ]
+    },
+    "poison": {
+        "name": "Poison Cure",
+        "recipe": [2, 0, 1, 1, 0],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/0/0f/Poison_Cure1.png",
+                "rank": "Minor",
+                "effect": "Empowers your hero to overcome level 1 poison hazards.",
+                "description": "Avoid a toxic lifestyle. This cure makes you queasy, but it provides minor protection against the poisoned effect."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/e/ec/Poison_Cure2.png",
+                "rank": "Common",
+                "effect": "Empowers your hero to overcome level 2 poison hazards.",
+                "description": "Avoid a toxic lifestyle. Makes your immune system a little more robust."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/2/27/Poison_Cure3.png",
+                "rank": "Greater",
+                "effect": "Empowers your hero to overcome level 3 poison hazards.",
+                "description": "Avoid a toxic lifestyle. Protects against ingested poisons, making mealtime a little less stressful."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/2/20/Poison_Cure4.png",
+                "rank": "Grand",
+                "effect": "Empowers your hero to overcome level 4 poison hazards.",
+                "description": "Avoid a toxic lifestyle. Protects against venom from spiders, snakes and other creepy crawlies."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/f/fb/Poison_Cure5.png",
+                "rank": "Superior",
+                "effect": "Empowers your hero to overcome level 5 poison hazards.",
+                "description": "Avoid a toxic lifestyle. Protects against the venom of magical beasts."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/2/23/Poison_Cure6.png",
+                "rank": "Masterwork",
+                "effect": "Empowers your hero to overcome level 6 poison hazards.",
+                "description": "Avoid a toxic lifestyle. This best-in-class potion functions like a universal, preventive antivenom."
+            }
+        ]
+    },
+    "drowsiness": {
+        "name": "Drowsiness Cure",
+        "recipe": [1, 1, 0, 2, 0],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/7/73/Drowsiness_Cure1.png",
+                "rank": "Minor",
+                "effect": "Empowers your hero to overcome level 1 magical sleep hazards.",
+                "description": "Rise and shine! This potion provides a mild caffeine buzz, protecting somewhat against magical sleep effects."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/5/5e/Drowsiness_Cure2.png",
+                "rank": "Common",
+                "effect": "Empowers your hero to overcome level 2 magical sleep hazards.",
+                "description": "Rise and shine! Provides a jolt of wakefulness, at the expense of mild jitters."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/4/4a/Drowsiness_Cure3.png",
+                "rank": "Greater",
+                "effect": "Empowers your hero to overcome level 3 magical sleep hazards.",
+                "description": "Rise and shine! Works better than a bucket of water to the face."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/d/d8/Drowsiness_Cure4.png",
+                "rank": "Grand",
+                "effect": "Empowers your hero to overcome level 4 magical sleep hazards.",
+                "description": "Rise and shine! Dispels drowsiness and prevents hypnosis and mind control."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/f/f6/Drowsiness_Cure5.png",
+                "rank": "Superior",
+                "effect": "Empowers your hero to overcome level 5 magical sleep hazards.",
+                "description": "Rise and shine! Promises a bout of insomnia in every bottle."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/7/7a/Drowsiness_Cure6.png",
+                "rank": "Masterwork",
+                "effect": "Empowers your hero to overcome level 6 magical sleep hazards.",
+                "description": "Rise and shine! This superlative cure makes sleep temporarily impossible."
+            }
+        ]
+    },
+    "petrification": {
+        "name": "Petrification Cure",
+        "recipe": [1, 0, 2, 0, 1],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/1/17/Petrification_Cure1.png",
+                "rank": "Minor",
+                "effect": "Empowers your hero to overcome level 1 petrification hazards.",
+                "description": "Stay limber! This potion provides some protection against the petrified status, but it can cause dandruff."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/8/8d/Petrification_Cure2.png",
+                "rank": "Common",
+                "effect": "Empowers your hero to overcome level 2 petrification hazards.",
+                "description": "Stay limber! This potion shortens the petrification effect by loosening the muscles."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/8/8b/Petrification_Cure3.png",
+                "rank": "Greater",
+                "effect": "Empowers your hero to overcome level 3 petrification hazards.",
+                "description": "Stay limber! Like yoga in a bottle, this potion keeps you flexible."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/1/1c/Petrification_Cure4.png",
+                "rank": "Grand",
+                "effect": "Empowers your hero to overcome level 4 petrification hazards.",
+                "description": "Stay limber! This cure provides all the benefits of a deep-tissue massage."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/e/e9/Petrification_Cure5.png",
+                "rank": "Superior",
+                "effect": "Empowers your hero to overcome level 5 petrification hazards.",
+                "description": "Stay limber! Provides reliable protection against gorgons and basilisks. Also helps with arthritis!"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/f/f3/Petrification_Cure6.png",
+                "rank": "Masterwork",
+                "effect": "Empowers your hero to overcome level 6 petrification hazards.",
+                "description": "Stay limber! This monumental mixture enhances muscle tone and flexibility so that you can be statuesque, not statuary."
+            }
+        ]
+    },
+    "silence": {
+        "name": "Silence",
+        "recipe": [0, 2, 1, 0, 1],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/1/1f/Silence_Cure1.png",
+                "rank": "Minor",
+                "effect": "Empowers your hero to overcome level 1 magical silence hazards.",
+                "description": "Get ready to make some noise! This potion offers mild protection against magical silencing. (May cause excess salivation.)"
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/0/00/Silence_Cure2.png",
+                "rank": "Common",
+                "effect": "Empowers your hero to overcome level 2 magical silence hazards.",
+                "description": "Get ready to make some noise! Helps you whistle and hum on tune, even in a magical zone of silence."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/9/92/Silence_Cure3.png",
+                "rank": "Greater",
+                "effect": "Empowers your hero to overcome level 3 magical silence hazards.",
+                "description": "Get ready to make some noise! Allows your whispers to be heard at a distance."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/8/89/Silence_Cure4.png",
+                "rank": "Grand",
+                "effect": "Empowers your hero to overcome level 4 magical silence hazards.",
+                "description": "Get ready to make some noise! Amplifies the volume of your voice exponentially."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/5/5e/Silence_Cure5.png",
+                "rank": "Superior",
+                "effect": "Empowers your hero to overcome level 5 magical silence hazards.",
+                "description": "Get ready to make some noise! Emboldens you to speak your truth, free of tongue-tied timidness."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/e/ea/Silence_Cure6.png",
+                "rank": "Masterwork",
+                "effect": "Empowers your hero to overcome level 6 magical silence hazards.",
+                "description": "Get ready to make some noise! With this eloquence-enhancing elixir, you'll never be silenced again."
+            }
+        ]
+    },
+    "curse": {
+        "name": "Curse Cure",
+        "recipe": [0, 1, 1, 0, 2],
+        "potions": [
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/7/7d/Curse_Cure1.png",
+                "rank": "Minor",
+                "effect": "Empowers your hero to overcome level 1 curse hazards.",
+                "description": "Your luck's about to change. This potion provides some protection against the cursed effect (but can't cure clumsiness)."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/5/5d/Curse_Cure2.png",
+                "rank": "Common",
+                "effect": "Empowers your hero to overcome level 2 curse hazards.",
+                "description": "Your luck's about to change. Provides protection against lesser jinxes."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/1/13/Curse_Cure3.png",
+                "rank": "Greater",
+                "effect": "Empowers your hero to overcome level 3 curse hazards.",
+                "description": "Your luck's about to change. Provides protection against the evil eye."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/1/14/Curse_Cure4.png",
+                "rank": "Grand",
+                "effect": "Empowers your hero to overcome level 4 curse hazards.",
+                "description": "Your luck's about to change. Provides protection against full-blown hexes."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/c/ce/Curse_Cure5.png",
+                "rank": "Superior",
+                "effect": "Empowers your hero to overcome level 5 curse hazards.",
+                "description": "Your luck's about to change. Provides protection against major maledictions and inherited curse."
+            },
+            {
+                "icon": "https://static.wikia.nocookie.net/potionomics/images/9/9f/Curse_Cure6.png",
+                "rank": "Masterwork",
+                "effect": "Empowers your hero to overcome level 6 curse hazards.",
+                "description": "Your luck's about to change. Rewrite the rules of reality with a potion that lets you purify spells of evil intent."
+            }
+        ]
+    }
+}

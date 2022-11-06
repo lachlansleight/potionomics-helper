@@ -1,0 +1,298 @@
+[
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/0/05/Wooden_Cauldron.png",
+        "name": "Wooden Cauldron",
+        "price": 0,
+        "maxIngredients": 4,
+        "maxMagimins": 75,
+        "unlockDay": 1
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/e/e1/Clay_Cauldron.png",
+        "name": "Clay Cauldron",
+        "price": 0,
+        "maxIngredients": 6,
+        "maxMagimins": 115,
+        "unlockDay": 3
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/6/66/Mudpack_Cauldron2.png",
+        "name": "Mudpack Cauldron",
+        "price": 100,
+        "maxIngredients": 6,
+        "maxMagimins": 160,
+        "unlockDay": 3
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/3/34/Mudpack_Cauldron%2B.png",
+        "name": "Mudpack + Cauldron",
+        "price": 100,
+        "maxIngredients": 6,
+        "maxMagimins": 180,
+        "unlockDay": 3
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/e/e0/Glass_Cauldron.png",
+        "name": "Glass Cauldron",
+        "price": 100,
+        "maxIngredients": 7,
+        "maxMagimins": 140,
+        "unlockDay": 3
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/1/10/Glass_Cauldron%2B.png",
+        "name": "Glass + Cauldron",
+        "price": 85,
+        "maxIngredients": 7,
+        "maxMagimins": 170,
+        "unlockDay": 3
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/8/8a/Glass_Cauldron%2B%2B.png",
+        "name": "Glass ++ Cauldron",
+        "price": 110,
+        "maxIngredients": 8,
+        "maxMagimins": 200,
+        "unlockDay": 3
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/7/7c/Storm_Cauldron.png",
+        "name": "Storm Cauldron",
+        "price": 225,
+        "maxIngredients": 7,
+        "maxMagimins": 240,
+        "unlockDay": 11
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/a/a3/Storm_Cauldron%2B.png",
+        "name": "Storm + Cauldron",
+        "price": 195,
+        "maxIngredients": 8,
+        "maxMagimins": 295,
+        "unlockDay": 11
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/8/8e/Storm_Cauldron%2B%2B.png",
+        "name": "Storm ++ Cauldron",
+        "price": 254,
+        "maxIngredients": 9,
+        "maxMagimins": 375,
+        "unlockDay": 11
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/2/25/Ocean_Cauldron.png",
+        "name": "Ocean Cauldron",
+        "price": 225,
+        "maxIngredients": 8,
+        "maxMagimins": 240,
+        "unlockDay": 11
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/a/aa/Ocean_Cauldron%2B.png",
+        "name": "Ocean + Cauldron",
+        "price": 195,
+        "maxIngredients": 8,
+        "maxMagimins": 275,
+        "unlockDay": 11
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/2/24/Ocean_Cauldron%2B%2B.png",
+        "name": "Ocean ++ Cauldron",
+        "price": 245,
+        "maxIngredients": 8,
+        "maxMagimins": 320,
+        "unlockDay": 11
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/5/50/Shadow_Cauldron.png",
+        "name": "Shadow Cauldron",
+        "price": 225,
+        "maxIngredients": 7,
+        "maxMagimins": 255,
+        "unlockDay": 11
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/6/6b/Shadow_Cauldron%2B.png",
+        "name": "Shadow + Cauldron",
+        "price": 195,
+        "maxIngredients": 7,
+        "maxMagimins": 295,
+        "unlockDay": 11
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/3/3b/Shadow_Cauldron%2B%2B.png",
+        "name": "Shadow ++ Cauldron",
+        "price": 254,
+        "maxIngredients": 7,
+        "maxMagimins": 345,
+        "unlockDay": 11
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/2/26/Crystal_Cauldron.png",
+        "name": "Crystal Cauldron",
+        "price": 770,
+        "maxIngredients": 8,
+        "maxMagimins": 420,
+        "unlockDay": 21
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/a/aa/Crystal_Cauldron%2B.png",
+        "name": "Crystal + Cauldron",
+        "price": 440,
+        "maxIngredients": 9,
+        "maxMagimins": 480,
+        "unlockDay": 21
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/1/10/Crystal_Cauldron%2B%2B.png",
+        "name": "Crystal ++ Cauldron",
+        "price": 555,
+        "maxIngredients": 10,
+        "maxMagimins": 575,
+        "unlockDay": 21
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/0/04/Steel_Cauldron.png",
+        "name": "Steel Cauldron",
+        "price": 770,
+        "maxIngredients": 8,
+        "maxMagimins": 405,
+        "unlockDay": 21
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/c/ce/Steel_Cauldron%2B.png",
+        "name": "Steel + Cauldron",
+        "price": 440,
+        "maxIngredients": 8,
+        "maxMagimins": 480,
+        "unlockDay": 21
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/e/e1/Steel_Cauldron%2B%2B.png",
+        "name": "Steel ++ Cauldron",
+        "price": 555,
+        "maxIngredients": 8,
+        "maxMagimins": 540,
+        "unlockDay": 21
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/2/2c/Celestial_Cauldron.png",
+        "name": "Celestial Cauldron",
+        "price": 770,
+        "maxIngredients": 9,
+        "maxMagimins": 405,
+        "unlockDay": 21
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/4/4a/Celestial_Cauldron%2B.png",
+        "name": "Celestial + Cauldron",
+        "price": 440,
+        "maxIngredients": 9,
+        "maxMagimins": 465,
+        "unlockDay": 21
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/7/78/Celestial_Cauldron%2B%2B.png",
+        "name": "Celestial ++ Cauldron",
+        "price": 555,
+        "maxIngredients": 9,
+        "maxMagimins": 505,
+        "unlockDay": 21
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/7/73/Arctic_Cauldron.png",
+        "name": "Artic Cauldron",
+        "price": 1730,
+        "maxIngredients": 10,
+        "maxMagimins": 640,
+        "unlockDay": 31
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/6/61/Arctic_Cauldron%2B.png",
+        "name": "Artic + Cauldron",
+        "price": 985,
+        "maxIngredients": 11,
+        "maxMagimins": 785,
+        "unlockDay": 31
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/3/35/Arctic_Cauldron%2B%2B.png",
+        "name": "Artic ++ Cauldron",
+        "price": 1310,
+        "maxIngredients": 12,
+        "maxMagimins": 975,
+        "unlockDay": 31
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/6/6b/Crater_Cauldron.png",
+        "name": "Crater Cauldron",
+        "price": 1730,
+        "maxIngredients": 10,
+        "maxMagimins": 675,
+        "unlockDay": 31
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/a/ac/Crater_Cauldron%2B.png",
+        "name": "Crater + Cauldron",
+        "price": 985,
+        "maxIngredients": 10,
+        "maxMagimins": 790,
+        "unlockDay": 31
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/8/8e/Crater_Cauldron%2B%2B.png",
+        "name": "Crater ++ Cauldron",
+        "price": 1310,
+        "maxIngredients": 10,
+        "maxMagimins": 940,
+        "unlockDay": 31
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/f/f1/Dragon_Cauldron.png",
+        "name": "Dragon Cauldron",
+        "price": 1730,
+        "maxIngredients": 11,
+        "maxMagimins": 640,
+        "unlockDay": 31
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/f/f9/Dragon_Cauldron%2B.png",
+        "name": "Dragon + Cauldron",
+        "price": 985,
+        "maxIngredients": 11,
+        "maxMagimins": 750,
+        "unlockDay": 31
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/0/02/Dragon_Cauldron%2B%2B.png",
+        "name": "Dragon ++ Cauldron",
+        "price": 1310,
+        "maxIngredients": 11,
+        "maxMagimins": 860,
+        "unlockDay": 31
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/3/36/Magical_Wasteland_Cauldron.png",
+        "name": "Magical Wasteland Cauldron",
+        "price": 3900,
+        "maxIngredients": 13,
+        "maxMagimins": 900,
+        "unlockDay": 41
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/5/56/Magical_Wasteland_Cauldron%2B.png",
+        "name": "Magical Wasteland + Cauldron",
+        "price": 2220,
+        "maxIngredients": 13,
+        "maxMagimins": 1150,
+        "unlockDay": 41
+    },
+    {
+        "icon": "https://static.wikia.nocookie.net/potionomics/images/2/28/Magical_Wasteland_Cauldron%2B%2B.png",
+        "name": "Magical Wasteland ++ Cauldron",
+        "price": 2810,
+        "maxIngredients": 14,
+        "maxMagimins": 2000,
+        "unlockDay": 41
+    }
+]

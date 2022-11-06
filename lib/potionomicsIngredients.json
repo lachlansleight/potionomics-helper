@@ -1,0 +1,2062 @@
+[
+    {
+        "name": "Fairy Flower Bulb",
+        "rarity": 1,
+        "type": "Flower",
+        "totalMagimins": 4,
+        "magimins": [4, 0, 0, 0, 0],
+        "attributes": [0, 0, 1, 0, 0],
+        "price": 14,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Feyberry",
+        "rarity": 1,
+        "type": "Fruit",
+        "totalMagimins": 6,
+        "magimins": [6, 0, 0, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 4,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "River Calamari",
+        "rarity": 1,
+        "type": "Fish",
+        "totalMagimins": 8,
+        "magimins": [8, 0, 0, 0, 0],
+        "attributes": [0, -1, 0, 0, 0],
+        "price": 5,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Fairy Flower Bud",
+        "rarity": 1,
+        "type": "Flower",
+        "totalMagimins": 12,
+        "magimins": [12, 0, 0, 0, 0],
+        "attributes": [0, 0, 1, 0, 0],
+        "price": 23,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Bramble-Rose",
+        "rarity": 2,
+        "type": "Flower",
+        "totalMagimins": 16,
+        "magimins": [16, 0, 0, 0, 0],
+        "attributes": [0, 1, 0, 0, 1],
+        "price": 45,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Puckberry",
+        "rarity": 1,
+        "type": "Fruit",
+        "totalMagimins": 18,
+        "magimins": [18, 0, 0, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 16,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Horned Jelly",
+        "rarity": 2,
+        "type": "Slime",
+        "totalMagimins": 18,
+        "magimins": [18, 0, 0, 0, 0],
+        "attributes": [0, -1, 0, 1, 0],
+        "price": 20,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Fairy Flower Bloom",
+        "rarity": 1,
+        "type": "Flower",
+        "totalMagimins": 20,
+        "magimins": [20, 0, 0, 0, 0],
+        "attributes": [0, 0, 1, 0, 0],
+        "price": 35,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Inverted Bramble-Rose",
+        "rarity": 0,
+        "type": "Flower",
+        "totalMagimins": 22,
+        "magimins": [22, 0, 0, 0, 0],
+        "attributes": [0, 1, 0, 0, 1],
+        "price": 46,
+        "location": "Crater"
+    },
+    {
+        "name": "Swamp Octopus",
+        "rarity": 1,
+        "type": "Fish",
+        "totalMagimins": 24,
+        "magimins": [24, 0, 0, 0, 0],
+        "attributes": [0, -1, 0, 0, 0],
+        "price": 18,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Antlered Jelly",
+        "rarity": 2,
+        "type": "Slime",
+        "totalMagimins": 30,
+        "magimins": [30, 0, 0, 0, 0],
+        "attributes": [0, -1, 0, 1, 0],
+        "price": 28,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Bogeyberry",
+        "rarity": 1,
+        "type": "Fruit",
+        "totalMagimins": 30,
+        "magimins": [30, 0, 0, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 30,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Dwarf Kraken",
+        "rarity": 1,
+        "type": "Fish",
+        "totalMagimins": 40,
+        "magimins": [40, 0, 0, 0, 0],
+        "attributes": [0, -1, 0, 0, 0],
+        "price": 30,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Pandemonium Shroom",
+        "rarity": 1,
+        "type": "Fungus",
+        "totalMagimins": 66,
+        "magimins": [66, 0, 0, 0, 0],
+        "attributes": [1, 0, 0, 0, -1],
+        "price": 72,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Impstool Mushroom",
+        "rarity": 1,
+        "type": "Fungus",
+        "totalMagimins": 4,
+        "magimins": [0, 4, 0, 0, 0],
+        "attributes": [0, 1, 0, 0, 0],
+        "price": 17,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Mandrake Root",
+        "rarity": 1,
+        "type": "Plant",
+        "totalMagimins": 6,
+        "magimins": [0, 6, 0, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 6,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Serpent's Slippery Tongue",
+        "rarity": 1,
+        "type": "Flesh",
+        "totalMagimins": 8,
+        "magimins": [0, 8, 0, 0, 0],
+        "attributes": [0, 0, -1, 0, 0],
+        "price": 6,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Trollstool Mushroom",
+        "rarity": 1,
+        "type": "Fungus",
+        "totalMagimins": 12,
+        "magimins": [0, 12, 0, 0, 0],
+        "attributes": [0, 1, 0, 0, 0],
+        "price": 20,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Desert Metal",
+        "rarity": 0,
+        "type": "Ore",
+        "totalMagimins": 12,
+        "magimins": [0, 12, 0, 0, 0],
+        "attributes": [0, 1, 0, 0, 0],
+        "price": 25,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Eye of Newt",
+        "rarity": 2,
+        "type": "Flesh",
+        "totalMagimins": 16,
+        "magimins": [0, 16, 0, 0, 0],
+        "attributes": [1, 1, 0, 0, 0],
+        "price": 34,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Manwyrm Root",
+        "rarity": 1,
+        "type": "Plant",
+        "totalMagimins": 18,
+        "magimins": [0, 18, 0, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 14,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Giantstool Fungus",
+        "rarity": 1,
+        "type": "Fungus",
+        "totalMagimins": 20,
+        "magimins": [0, 20, 0, 0, 0],
+        "attributes": [0, 1, 0, 0, 0],
+        "price": 40,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Basilisk's Cornea",
+        "rarity": 2,
+        "type": "Flesh",
+        "totalMagimins": 22,
+        "magimins": [0, 22, 0, 0, 0],
+        "attributes": [1, 1, 0, 0, 0],
+        "price": 54,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Salamander's Fiery Tongue",
+        "rarity": 1,
+        "type": "Flesh",
+        "totalMagimins": 24,
+        "magimins": [0, 24, 0, 0, 0],
+        "attributes": [0, 0, -1, 0, 0],
+        "price": 22,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Bog Beet",
+        "rarity": 3,
+        "type": "Plant",
+        "totalMagimins": 27,
+        "magimins": [0, 27, 0, 0, 0],
+        "attributes": [-1, 0, 0, 0, 1],
+        "price": 27,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Reef Radish",
+        "rarity": 3,
+        "type": "Plant",
+        "totalMagimins": 30,
+        "magimins": [0, 30, 0, 0, 0],
+        "attributes": [-1, 0, 0, 0, 1],
+        "price": 32,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Mandragon Root",
+        "rarity": 1,
+        "type": "Plant",
+        "totalMagimins": 30,
+        "magimins": [0, 30, 0, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 34,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Banshee's Bloody Tongue",
+        "rarity": 1,
+        "type": "Flesh",
+        "totalMagimins": 40,
+        "magimins": [0, 40, 0, 0, 0],
+        "attributes": [0, 0, -1, 0, 0],
+        "price": 32,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Acid Rutabaga",
+        "rarity": 1,
+        "type": "Plant",
+        "totalMagimins": 48,
+        "magimins": [0, 48, 0, 0, 0],
+        "attributes": [-1, 0, 0, 0, 1],
+        "price": 54,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Cosmic Cassava",
+        "rarity": 4,
+        "type": "Plant",
+        "totalMagimins": 66,
+        "magimins": [0, 66, 0, 0, 0],
+        "attributes": [-1, 0, 0, 0, 1],
+        "price": 74,
+        "location": "Crater"
+    },
+    {
+        "name": "Rotfly Larva",
+        "rarity": 1,
+        "type": "Bug",
+        "totalMagimins": 4,
+        "magimins": [0, 0, 4, 0, 0],
+        "attributes": [1, 0, 0, 0, 0],
+        "price": 10,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Sack of Slime",
+        "rarity": 1,
+        "type": "Slime",
+        "totalMagimins": 6,
+        "magimins": [0, 0, 6, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 7,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Unicorn Horn",
+        "rarity": 1,
+        "type": "Bone",
+        "totalMagimins": 8,
+        "magimins": [0, 0, 8, 0, 0],
+        "attributes": [-1, 0, 0, 0, 0],
+        "price": 6,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Rotfly Cocoon",
+        "rarity": 2,
+        "type": "Bug",
+        "totalMagimins": 12,
+        "magimins": [0, 0, 12, 0, 0],
+        "attributes": [1, 0, 0, 0, 0],
+        "price": 25,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Celestial Ore",
+        "rarity": 2,
+        "type": "Ore",
+        "totalMagimins": 16,
+        "magimins": [0, 0, 16, 0, 0],
+        "attributes": [0, 0, 1, 1, 0],
+        "price": 45,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Sack of Hive Slime",
+        "rarity": 1,
+        "type": "Slime",
+        "totalMagimins": 18,
+        "magimins": [0, 0, 18, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 21,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Rotfly Adult",
+        "rarity": 2,
+        "type": "Bug",
+        "totalMagimins": 20,
+        "magimins": [0, 0, 20, 0, 0],
+        "attributes": [1, 0, 0, 0, 0],
+        "price": 38,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Nether Ore",
+        "rarity": 4,
+        "type": "Ore",
+        "totalMagimins": 22,
+        "magimins": [0, 0, 22, 0, 0],
+        "attributes": [0, 0, 1, 1, 0],
+        "price": 46,
+        "location": "Arctic"
+    },
+    {
+        "name": "Qilin's Tri-Horn",
+        "rarity": 1,
+        "type": "Bone",
+        "totalMagimins": 24,
+        "magimins": [0, 0, 24, 0, 0],
+        "attributes": [-1, 0, 0, 0, 0],
+        "price": 18,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Hallucinatory Shroom",
+        "rarity": 3,
+        "type": "Fungus",
+        "totalMagimins": 30,
+        "magimins": [0, 0, 30, 0, 0],
+        "attributes": [1, 0, 0, 0, -1],
+        "price": 36,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Sack of Composite Slime",
+        "rarity": 1,
+        "type": "Slime",
+        "totalMagimins": 30,
+        "magimins": [0, 0, 30, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 36,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Rotfly Matriarch",
+        "rarity": 1,
+        "type": "Bug",
+        "totalMagimins": 32,
+        "magimins": [0, 0, 32, 0, 0],
+        "attributes": [1, 0, 0, 0, 0],
+        "price": 65,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Spriggan Antler",
+        "rarity": 2,
+        "type": "Bone",
+        "totalMagimins": 40,
+        "magimins": [0, 0, 40, 0, 0],
+        "attributes": [-1, 0, 0, 0, 0],
+        "price": 38,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Rotfly Mutant",
+        "rarity": 4,
+        "type": "Bug",
+        "totalMagimins": 44,
+        "magimins": [0, 0, 44, 0, 0],
+        "attributes": [1, 0, 0, 0, 0],
+        "price": 67,
+        "location": "Crater"
+    },
+    {
+        "name": "Delirium Shroom",
+        "rarity": 1,
+        "type": "Fungus",
+        "totalMagimins": 48,
+        "magimins": [0, 0, 48, 0, 0],
+        "attributes": [1, 0, 0, 0, -1],
+        "price": 63,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Silver Stag Antler",
+        "rarity": 1,
+        "type": "Bone",
+        "totalMagimins": 64,
+        "magimins": [0, 0, 64, 0, 0],
+        "attributes": [-1, 0, 0, 0, 0],
+        "price": 72,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Yeti Antler",
+        "rarity": 1,
+        "type": "Bone",
+        "totalMagimins": 88,
+        "magimins": [0, 0, 88, 0, 0],
+        "attributes": [-1, 0, 0, 0, 0],
+        "price": 94,
+        "location": "Arctic"
+    },
+    {
+        "name": "Murkwater Pearl",
+        "rarity": 2,
+        "type": "Gem",
+        "totalMagimins": 12,
+        "magimins": [0, 0, 0, 12, 0],
+        "attributes": [0, 0, 0, 1, 0],
+        "price": 27,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Wraith Orchid",
+        "rarity": 1,
+        "type": "Flower",
+        "totalMagimins": 12,
+        "magimins": [0, 0, 0, 12, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 19,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Glass Ore",
+        "rarity": 1,
+        "type": "Ore",
+        "totalMagimins": 18,
+        "magimins": [0, 0, 0, 18, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 24,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Shadowveil Pearl",
+        "rarity": 2,
+        "type": "Gem",
+        "totalMagimins": 20,
+        "magimins": [0, 0, 0, 20, 0],
+        "attributes": [0, 0, 0, 1, 0],
+        "price": 38,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Fulgurite Ore",
+        "rarity": 2,
+        "type": "Ore",
+        "totalMagimins": 30,
+        "magimins": [0, 0, 0, 30, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 40,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Lustrous Pearl",
+        "rarity": 0,
+        "type": "Gem",
+        "totalMagimins": 32,
+        "magimins": [0, 0, 0, 32, 0],
+        "attributes": [0, 0, 0, 1, 0],
+        "price": 60,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Saltwatermelon",
+        "rarity": 2,
+        "type": "Fruit",
+        "totalMagimins": 40,
+        "magimins": [0, 0, 0, 40, 0],
+        "attributes": [0, 0, 0, -1, 0],
+        "price": 44,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Dragonfire Pearl",
+        "rarity": 3,
+        "type": "Gem",
+        "totalMagimins": 44,
+        "magimins": [0, 0, 0, 44, 0],
+        "attributes": [0, 0, 0, 1, 0],
+        "price": 76,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Feathered Gelatin",
+        "rarity": 2,
+        "type": "Slime",
+        "totalMagimins": 48,
+        "magimins": [0, 0, 0, 48, 0],
+        "attributes": [0, 1, -1, 0, 0],
+        "price": 62,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Rottermelon",
+        "rarity": 1,
+        "type": "Fruit",
+        "totalMagimins": 64,
+        "magimins": [0, 0, 0, 64, 0],
+        "attributes": [0, 0, 0, -1, 0],
+        "price": 68,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Winged Gelatin",
+        "rarity": 2,
+        "type": "Slime",
+        "totalMagimins": 66,
+        "magimins": [0, 0, 0, 66, 0],
+        "attributes": [0, 1, -1, 0, 0],
+        "price": 103,
+        "location": "Arctic"
+    },
+    {
+        "name": "Slaughtermelon",
+        "rarity": 0,
+        "type": "Fruit",
+        "totalMagimins": 76,
+        "magimins": [0, 0, 0, 76, 0],
+        "attributes": [0, 0, 0, -1, 0],
+        "price": 105,
+        "location": "Crater"
+    },
+    {
+        "name": "Jelly Blossom",
+        "rarity": 3,
+        "type": "Flower",
+        "totalMagimins": 30,
+        "magimins": [0, 0, 0, 0, 30],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 55,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Static Spiderling",
+        "rarity": 3,
+        "type": "Bug",
+        "totalMagimins": 30,
+        "magimins": [0, 0, 0, 0, 30],
+        "attributes": [0, 0, 0, -1, 1],
+        "price": 50,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Crag Crab",
+        "rarity": 3,
+        "type": "Fish",
+        "totalMagimins": 32,
+        "magimins": [0, 0, 0, 0, 32],
+        "attributes": [0, 0, 1, 0, 0],
+        "price": 75,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Blackfrost Lobster",
+        "rarity": 2,
+        "type": "Fish",
+        "totalMagimins": 44,
+        "magimins": [0, 0, 0, 0, 44],
+        "attributes": [0, 0, 1, 0, 0],
+        "price": 104,
+        "location": "Arctic"
+    },
+    {
+        "name": "Sepulcher Widow",
+        "rarity": 2,
+        "type": "Bug",
+        "totalMagimins": 48,
+        "magimins": [0, 0, 0, 0, 48],
+        "attributes": [0, 0, 0, -1, 1],
+        "price": 82,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Owlbear Pheromones",
+        "rarity": 2,
+        "type": "Essence",
+        "totalMagimins": 64,
+        "magimins": [0, 0, 0, 0, 64],
+        "attributes": [0, 0, -1, 0, 0],
+        "price": 90,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Abominable Tarantula",
+        "rarity": 2,
+        "type": "Bug",
+        "totalMagimins": 66,
+        "magimins": [0, 0, 0, 0, 66],
+        "attributes": [0, 0, 0, -1, 1],
+        "price": 105,
+        "location": "Arctic"
+    },
+    {
+        "name": "Dragon Pheromones",
+        "rarity": 2,
+        "type": "Essence",
+        "totalMagimins": 88,
+        "magimins": [0, 0, 0, 0, 88],
+        "attributes": [0, 0, -1, 0, 0],
+        "price": 151,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "River Pixie's Shell",
+        "rarity": 2,
+        "type": "Mineral",
+        "totalMagimins": 8,
+        "magimins": [4, 4, 0, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 11,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Sphinx Flea",
+        "rarity": 3,
+        "type": "Bug",
+        "totalMagimins": 18,
+        "magimins": [12, 6, 0, 0, 0],
+        "attributes": [0, 1, 0, 0, 0],
+        "price": 35,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Selkie Lice",
+        "rarity": 3,
+        "type": "Bug",
+        "totalMagimins": 30,
+        "magimins": [10, 20, 0, 0, 0],
+        "attributes": [0, 1, 0, 0, 0],
+        "price": 50,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Leech Snail's Shell",
+        "rarity": 2,
+        "type": "Mineral",
+        "totalMagimins": 24,
+        "magimins": [12, 12, 0, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 26,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Slapping Turtle's Shell",
+        "rarity": 1,
+        "type": "Mineral",
+        "totalMagimins": 40,
+        "magimins": [20, 20, 0, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 46,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Scimitar Crab's Shell",
+        "rarity": 1,
+        "type": "Mineral",
+        "totalMagimins": 64,
+        "magimins": [32, 32, 0, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 76,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Space Nautilus's Shell",
+        "rarity": 4,
+        "type": "Mineral",
+        "totalMagimins": 88,
+        "magimins": [44, 44, 0, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 92,
+        "location": "Crater"
+    },
+    {
+        "name": "Pegasus Mite",
+        "rarity": 0,
+        "type": "Bug",
+        "totalMagimins": 144,
+        "magimins": [96, 48, 0, 0, 0],
+        "attributes": [0, -1, 0, 0, -1],
+        "price": 134,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Dragonblood Tick",
+        "rarity": 2,
+        "type": "Bug",
+        "totalMagimins": 198,
+        "magimins": [132, 66, 0, 0, 0],
+        "attributes": [0, -1, 0, 0, -1],
+        "price": 174,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Mud Shrimp",
+        "rarity": 3,
+        "type": "Fish",
+        "totalMagimins": 18,
+        "magimins": [6, 0, 12, 0, 0],
+        "attributes": [0, 0, 1, 0, 0],
+        "price": 53,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Crocodile Tooth",
+        "rarity": 1,
+        "type": "Bone",
+        "totalMagimins": 18,
+        "magimins": [6, 0, 12, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 20,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Kappa Pheromones",
+        "rarity": 2,
+        "type": "Essence",
+        "totalMagimins": 8,
+        "magimins": [4, 0, 4, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 13,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Warg Pheromones",
+        "rarity": 2,
+        "type": "Essence",
+        "totalMagimins": 24,
+        "magimins": [12, 0, 12, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 26,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Nessie Pheromones",
+        "rarity": 1,
+        "type": "Essence",
+        "totalMagimins": 40,
+        "magimins": [20, 0, 20, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 50,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Cobweb Crayfish",
+        "rarity": 3,
+        "type": "Fish",
+        "totalMagimins": 30,
+        "magimins": [10, 0, 20, 0, 0],
+        "attributes": [0, 0, 1, 0, 0],
+        "price": 48,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Ogre's Shadow",
+        "rarity": 1,
+        "type": "Essence",
+        "totalMagimins": 64,
+        "magimins": [32, 0, 32, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 74,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Amphithere's Shadow",
+        "rarity": 1,
+        "type": "Essence",
+        "totalMagimins": 88,
+        "magimins": [44, 0, 44, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 114,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Buoyant Blowfish",
+        "rarity": 2,
+        "type": "Fish",
+        "totalMagimins": 144,
+        "magimins": [96, 0, 48, 0, 0],
+        "attributes": [0, 0, 0, -1, -1],
+        "price": 138,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Icicle Pufferfish",
+        "rarity": 2,
+        "type": "Fish",
+        "totalMagimins": 198,
+        "magimins": [132, 0, 66, 0, 0],
+        "attributes": [0, 0, 0, -1, -1],
+        "price": 210,
+        "location": "Arctic"
+    },
+    {
+        "name": "Ghostlight Bloom",
+        "rarity": 2,
+        "type": "Flower",
+        "totalMagimins": 24,
+        "magimins": [18, 0, 0, 6, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 28,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Djinn Blossom",
+        "rarity": 2,
+        "type": "Flower",
+        "totalMagimins": 32,
+        "magimins": [24, 0, 0, 8, 0],
+        "attributes": [1, 0, 1, 0, 0],
+        "price": 68,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Fire Flower",
+        "rarity": 3,
+        "type": "Flower",
+        "totalMagimins": 60,
+        "magimins": [40, 0, 0, 20, 0],
+        "attributes": [0, 0, -1, 0, 0],
+        "price": 55,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Dragonbreath Blossom",
+        "rarity": 2,
+        "type": "Flower",
+        "totalMagimins": 44,
+        "magimins": [33, 0, 0, 11, 0],
+        "attributes": [1, 0, 1, 0, 0],
+        "price": 76,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Shelled Pudding",
+        "rarity": 1,
+        "type": "Slime",
+        "totalMagimins": 64,
+        "magimins": [32, 0, 0, 32, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 90,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Armored Pudding",
+        "rarity": 0,
+        "type": "Slime",
+        "totalMagimins": 88,
+        "magimins": [44, 0, 0, 44, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 115,
+        "location": "Crater"
+    },
+    {
+        "name": "Harpy's Heart of Stone",
+        "rarity": 2,
+        "type": "Flesh",
+        "totalMagimins": 48,
+        "magimins": [16, 0, 0, 32, 0],
+        "attributes": [0, 1, 0, 0, 0],
+        "price": 76,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Jotunn's Frozen Heart",
+        "rarity": 2,
+        "type": "Flesh",
+        "totalMagimins": 66,
+        "magimins": [22, 0, 0, 44, 0],
+        "attributes": [0, 1, 0, 0, 0],
+        "price": 98,
+        "location": "Arctic"
+    },
+    {
+        "name": "Sea Salt",
+        "rarity": 2,
+        "type": "Mineral",
+        "totalMagimins": 40,
+        "magimins": [30, 0, 0, 0, 10],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 55,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Rock Salt",
+        "rarity": 2,
+        "type": "Mineral",
+        "totalMagimins": 32,
+        "magimins": [24, 0, 0, 0, 8],
+        "attributes": [1, 0, 0, 1, 0],
+        "price": 68,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Diamond Salt",
+        "rarity": 2,
+        "type": "Mineral",
+        "totalMagimins": 44,
+        "magimins": [33, 0, 0, 0, 11],
+        "attributes": [1, 0, 0, 1, 0],
+        "price": 85,
+        "location": "Arctic"
+    },
+    {
+        "name": "Creeping Mildew",
+        "rarity": 2,
+        "type": "Fungus",
+        "totalMagimins": 64,
+        "magimins": [16, 0, 0, 0, 48],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 92,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Stalking Mold",
+        "rarity": 0,
+        "type": "Fungus",
+        "totalMagimins": 88,
+        "magimins": [22, 0, 0, 0, 66],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 123,
+        "location": "Crater"
+    },
+    {
+        "name": "Pixiedust Diamond",
+        "rarity": 2,
+        "type": "Gem",
+        "totalMagimins": 8,
+        "magimins": [0, 4, 4, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 14,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Golem's-Eye Diamond",
+        "rarity": 2,
+        "type": "Gem",
+        "totalMagimins": 24,
+        "magimins": [0, 12, 12, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 28,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Spider's-Bait Diamond",
+        "rarity": 2,
+        "type": "Gem",
+        "totalMagimins": 40,
+        "magimins": [0, 20, 20, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 50,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Griffin's-Whetstone Diamond",
+        "rarity": 1,
+        "type": "Gem",
+        "totalMagimins": 64,
+        "magimins": [0, 32, 32, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 86,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Direwolf's-Breath Diamond",
+        "rarity": 1,
+        "type": "Gem",
+        "totalMagimins": 88,
+        "magimins": [0, 44, 44, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 118,
+        "location": "Arctic"
+    },
+    {
+        "name": "Figment Pomme",
+        "rarity": 2,
+        "type": "Fruit",
+        "totalMagimins": 24,
+        "magimins": [0, 18, 6, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 26,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Moss Berries",
+        "rarity": 1,
+        "type": "Fruit",
+        "totalMagimins": 30,
+        "magimins": [0, 10, 20, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 35,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Phantom Pomme",
+        "rarity": 4,
+        "type": "Fruit",
+        "totalMagimins": 40,
+        "magimins": [0, 10, 30, 0, 0],
+        "attributes": [1, 0, 0, 0, -1],
+        "price": 64,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Daydream Pomme",
+        "rarity": 3,
+        "type": "Fruit",
+        "totalMagimins": 32,
+        "magimins": [0, 24, 8, 0, 0],
+        "attributes": [0, 0, 0, 1, 1],
+        "price": 75,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Nightmare Pomme",
+        "rarity": 0,
+        "type": "Fruit",
+        "totalMagimins": 44,
+        "magimins": [0, 33, 11, 0, 0],
+        "attributes": [0, 0, 0, 1, 1],
+        "price": 72,
+        "location": "Crater"
+    },
+    {
+        "name": "Weeping Metal Ore",
+        "rarity": 1,
+        "type": "Ore",
+        "totalMagimins": 96,
+        "magimins": [0, 32, 64, 0, 0],
+        "attributes": [0, -1, 0, 0, 0],
+        "price": 66,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Liquid Metal Ore",
+        "rarity": 0,
+        "type": "Ore",
+        "totalMagimins": 132,
+        "magimins": [0, 44, 88, 0, 0],
+        "attributes": [0, -1, 0, 0, 0],
+        "price": 162,
+        "location": "Crater"
+    },
+    {
+        "name": "Miasma Spore",
+        "rarity": 2,
+        "type": "Fungus",
+        "totalMagimins": 24,
+        "magimins": [0, 18, 0, 6, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 30,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Photonic Spore",
+        "rarity": 4,
+        "type": "Fungus",
+        "totalMagimins": 40,
+        "magimins": [0, 10, 0, 30, 0],
+        "attributes": [-1, 0, 1, 0, 0],
+        "price": 52,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Medusa Spore",
+        "rarity": 1,
+        "type": "Fungus",
+        "totalMagimins": 64,
+        "magimins": [0, 48, 0, 16, 0],
+        "attributes": [-1, 0, 1, 0, 0],
+        "price": 94,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Snowflake Spore",
+        "rarity": 0,
+        "type": "Fungus",
+        "totalMagimins": 88,
+        "magimins": [0, 66, 0, 22, 0],
+        "attributes": [-1, 0, 1, 0, 0],
+        "price": 108,
+        "location": "Arctic"
+    },
+    {
+        "name": "Daredevil Pepper",
+        "rarity": 1,
+        "type": "Plant",
+        "totalMagimins": 64,
+        "magimins": [0, 32, 0, 32, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 90,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Widowmaker Pepper",
+        "rarity": 1,
+        "type": "Plant",
+        "totalMagimins": 88,
+        "magimins": [0, 44, 0, 44, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 126,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Watchdog Daisy",
+        "rarity": 1,
+        "type": "Flower",
+        "totalMagimins": 64,
+        "magimins": [0, 16, 0, 48, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 83,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Hellhound Daisy",
+        "rarity": 2,
+        "type": "Flower",
+        "totalMagimins": 88,
+        "magimins": [0, 22, 0, 66, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 113,
+        "location": "Arctic"
+    },
+    {
+        "name": "Barghast Canine",
+        "rarity": 0,
+        "type": "Bone",
+        "totalMagimins": 40,
+        "magimins": [0, 30, 0, 0, 10],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 55,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Geode Citrus",
+        "rarity": 2,
+        "type": "Fruit",
+        "totalMagimins": 64,
+        "magimins": [0, 16, 0, 0, 48],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 94,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Dragonegg Citrus",
+        "rarity": 2,
+        "type": "Fruit",
+        "totalMagimins": 88,
+        "magimins": [0, 22, 0, 0, 66],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 124,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Naga's Fang",
+        "rarity": 1,
+        "type": "Bone",
+        "totalMagimins": 64,
+        "magimins": [0, 48, 0, 0, 16],
+        "attributes": [0, -1, 0, 0, 1],
+        "price": 98,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Elder Being's Tusk",
+        "rarity": 4,
+        "type": "Bone",
+        "totalMagimins": 88,
+        "magimins": [0, 66, 0, 0, 22],
+        "attributes": [0, -1, 0, 0, 1],
+        "price": 103,
+        "location": "Crater"
+    },
+    {
+        "name": "Frog Leg",
+        "rarity": 4,
+        "type": "Flesh",
+        "totalMagimins": 36,
+        "magimins": [0, 0, 24, 12, 0],
+        "attributes": [0, 0, 0, -1, 0],
+        "price": 33,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Raiju Droppings",
+        "rarity": 2,
+        "type": "Essence",
+        "totalMagimins": 40,
+        "magimins": [0, 0, 30, 10, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 55,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Chimera Waste",
+        "rarity": 0,
+        "type": "Essence",
+        "totalMagimins": 96,
+        "magimins": [0, 0, 64, 32, 0],
+        "attributes": [0, 0, -1, 0, 0],
+        "price": 118,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Dragon Dung",
+        "rarity": 2,
+        "type": "Essence",
+        "totalMagimins": 132,
+        "magimins": [0, 0, 88, 44, 0],
+        "attributes": [0, 0, -1, 0, 0],
+        "price": 173,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Thunderbird's Molted Feather",
+        "rarity": 3,
+        "type": "Flesh",
+        "totalMagimins": 40,
+        "magimins": [0, 0, 30, 0, 10],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 60,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Sequined Custard",
+        "rarity": 0,
+        "type": "Slime",
+        "totalMagimins": 48,
+        "magimins": [0, 0, 32, 0, 16],
+        "attributes": [0, 0, 0, 1, 0],
+        "price": 84,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Bedazzled Custard",
+        "rarity": 1,
+        "type": "Slime",
+        "totalMagimins": 66,
+        "magimins": [0, 0, 44, 0, 22],
+        "attributes": [0, 0, 0, 1, 0],
+        "price": 95,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Lamia's Shed Scales",
+        "rarity": 2,
+        "type": "Flesh",
+        "totalMagimins": 64,
+        "magimins": [0, 0, 0, 48, 16],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 110,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Body Snatcher's Sloughed Skin",
+        "rarity": 0,
+        "type": "Flesh",
+        "totalMagimins": 88,
+        "magimins": [0, 0, 0, 66, 22],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 132,
+        "location": "Crater"
+    },
+    {
+        "name": "Cubic Ooze",
+        "rarity": 3,
+        "type": "Slime",
+        "totalMagimins": 9,
+        "magimins": [3, 3, 3, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 16,
+        "location": "Enchanted Forest"
+    },
+    {
+        "name": "Hydra Vertebra",
+        "rarity": 1,
+        "type": "Bone",
+        "totalMagimins": 27,
+        "magimins": [9, 9, 9, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 35,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Electrocution Eel",
+        "rarity": 2,
+        "type": "Fish",
+        "totalMagimins": 30,
+        "magimins": [10, 10, 10, 0, 0],
+        "attributes": [0, 0, 0, 1, 0],
+        "price": 45,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Thunder Quartz",
+        "rarity": 2,
+        "type": "Gem",
+        "totalMagimins": 60,
+        "magimins": [30, 10, 20, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 72,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Hangman Eel",
+        "rarity": 2,
+        "type": "Fish",
+        "totalMagimins": 72,
+        "magimins": [24, 24, 24, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 95,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Guillotine Eel",
+        "rarity": 0,
+        "type": "Fish",
+        "totalMagimins": 99,
+        "magimins": [33, 33, 33, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 126,
+        "location": "Crater"
+    },
+    {
+        "name": "Lethal Injection Eel",
+        "rarity": 0,
+        "type": "Fish",
+        "totalMagimins": 126,
+        "magimins": [42, 42, 42, 0, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 164,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Courtier's Orchid",
+        "rarity": 4,
+        "type": "Flower",
+        "totalMagimins": 56,
+        "magimins": [8, 24, 24, 0, 0],
+        "attributes": [0, 0, 1, 0, 0],
+        "price": 72,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Golemite",
+        "rarity": 3,
+        "type": "Mineral",
+        "totalMagimins": 40,
+        "magimins": [18, 12, 0, 10, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 38,
+        "location": "Bone Wastes"
+    },
+    {
+        "name": "Supernalite",
+        "rarity": 3,
+        "type": "Mineral",
+        "totalMagimins": 96,
+        "magimins": [48, 32, 0, 16, 0],
+        "attributes": [-1, 0, 0, 1, 0],
+        "price": 134,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Hoarite",
+        "rarity": 0,
+        "type": "Mineral",
+        "totalMagimins": 132,
+        "magimins": [55, 55, 0, 22, 0],
+        "attributes": [-1, 0, 0, 1, 0],
+        "price": 167,
+        "location": "Arctic"
+    },
+    {
+        "name": "Sorcerite",
+        "rarity": 3,
+        "type": "Mineral",
+        "totalMagimins": 168,
+        "magimins": [70, 70, 0, 28, 0],
+        "attributes": [-1, 0, 0, 1, 0],
+        "price": 232,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Poison Quartz",
+        "rarity": 3,
+        "type": "Gem",
+        "totalMagimins": 144,
+        "magimins": [64, 48, 0, 32, 0],
+        "attributes": [0, 0, 0, 0, -1],
+        "price": 185,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Cosmic Quartz",
+        "rarity": 4,
+        "type": "Gem",
+        "totalMagimins": 165,
+        "magimins": [66, 33, 0, 66, 0],
+        "attributes": [0, 0, 0, 0, -1],
+        "price": 184,
+        "location": "Crater"
+    },
+    {
+        "name": "Orchid of the Ice Princess",
+        "rarity": 0,
+        "type": "Flower",
+        "totalMagimins": 77,
+        "magimins": [11, 33, 0, 33, 0],
+        "attributes": [0, 0, 1, 0, 0],
+        "price": 104,
+        "location": "Arctic"
+    },
+    {
+        "name": "Orchid of the Witch Queen",
+        "rarity": 0,
+        "type": "Flower",
+        "totalMagimins": 168,
+        "magimins": [28, 70, 0, 70, 0],
+        "attributes": [0, 0, 1, 0, 0],
+        "price": 248,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Abyssalite",
+        "rarity": 2,
+        "type": "Mineral",
+        "totalMagimins": 60,
+        "magimins": [30, 20, 0, 0, 10],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 79,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Malachite Ore",
+        "rarity": 3,
+        "type": "Ore",
+        "totalMagimins": 60,
+        "magimins": [30, 10, 0, 0, 20],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 93,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Lazuli Ore",
+        "rarity": 3,
+        "type": "Ore",
+        "totalMagimins": 144,
+        "magimins": [64, 48, 0, 0, 32],
+        "attributes": [0, 0, 0, 0, -1],
+        "price": 174,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Amethyst Ore",
+        "rarity": 2,
+        "type": "Ore",
+        "totalMagimins": 165,
+        "magimins": [66, 66, 0, 0, 33],
+        "attributes": [0, 0, 0, 0, -1],
+        "price": 206,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Blackgold Ore",
+        "rarity": 4,
+        "type": "Ore",
+        "totalMagimins": 210,
+        "magimins": [84, 84, 0, 0, 42],
+        "attributes": [0, 0, 0, 0, -1],
+        "price": 230,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Mosquito Plant",
+        "rarity": 4,
+        "type": "Plant",
+        "totalMagimins": 60,
+        "magimins": [10, 0, 20, 0, 30],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 105,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Acid Pitfall Plant",
+        "rarity": 2,
+        "type": "Plant",
+        "totalMagimins": 96,
+        "magimins": [16, 0, 40, 0, 40],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 145,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Barracuda Plant",
+        "rarity": 0,
+        "type": "Plant",
+        "totalMagimins": 132,
+        "magimins": [22, 0, 55, 0, 55],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 172,
+        "location": "Crater"
+    },
+    {
+        "name": "Venous Witch-Trap",
+        "rarity": 0,
+        "type": "Plant",
+        "totalMagimins": 168,
+        "magimins": [28, 0, 70, 0, 70],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 193,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Swamp Fish",
+        "rarity": 1,
+        "type": "Fish",
+        "totalMagimins": 24,
+        "magimins": [12, 0, 0, 6, 6],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 22,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Arcane Quartz",
+        "rarity": 4,
+        "type": "Gem",
+        "totalMagimins": 210,
+        "magimins": [84, 0, 0, 84, 42],
+        "attributes": [0, 0, 0, 0, -1],
+        "price": 238,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Raven's Shadow",
+        "rarity": 3,
+        "type": "Essence",
+        "totalMagimins": 40,
+        "magimins": [0, 10, 12, 18, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 52,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Nuclear Shadow",
+        "rarity": 0,
+        "type": "Essence",
+        "totalMagimins": 168,
+        "magimins": [0, 70, 70, 28, 0],
+        "attributes": [0, 1, 0, 0, 0],
+        "price": 228,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Phoenix Tear",
+        "rarity": 4,
+        "type": "Essence",
+        "totalMagimins": 56,
+        "magimins": [0, 24, 24, 8, 0],
+        "attributes": [0, 1, 0, 0, 0],
+        "price": 82,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Dragon Tear",
+        "rarity": 2,
+        "type": "Essence",
+        "totalMagimins": 77,
+        "magimins": [0, 33, 33, 11, 0],
+        "attributes": [0, 1, 0, 0, 0],
+        "price": 118,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Jeweled Scarab",
+        "rarity": 0,
+        "type": "Bug",
+        "totalMagimins": 72,
+        "magimins": [0, 24, 24, 24, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 105,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Magma Beetle",
+        "rarity": 1,
+        "type": "Bug",
+        "totalMagimins": 99,
+        "magimins": [0, 33, 33, 33, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 124,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Blightroach",
+        "rarity": 0,
+        "type": "Bug",
+        "totalMagimins": 126,
+        "magimins": [0, 42, 42, 42, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 185,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Bioplasm",
+        "rarity": 3,
+        "type": "Essence",
+        "totalMagimins": 96,
+        "magimins": [0, 48, 32, 16, 0],
+        "attributes": [0, 0, 0, -1, 1],
+        "price": 125,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Xenoplasm",
+        "rarity": 4,
+        "type": "Essence",
+        "totalMagimins": 132,
+        "magimins": [0, 55, 55, 22, 0],
+        "attributes": [0, 0, 0, -1, 1],
+        "price": 149,
+        "location": "Crater"
+    },
+    {
+        "name": "Ectoplasm",
+        "rarity": 4,
+        "type": "Essence",
+        "totalMagimins": 168,
+        "magimins": [0, 70, 70, 28, 0],
+        "attributes": [0, 0, 0, -1, 1],
+        "price": 203,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Dropspider's Shadow",
+        "rarity": 3,
+        "type": "Essence",
+        "totalMagimins": 60,
+        "magimins": [0, 0, 30, 20, 10],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 90,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Stalking Skeleton's Fibula",
+        "rarity": 2,
+        "type": "Bone",
+        "totalMagimins": 96,
+        "magimins": [0, 0, 40, 40, 16],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 150,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Cyclops Skull",
+        "rarity": 4,
+        "type": "Bone",
+        "totalMagimins": 126,
+        "magimins": [0, 0, 42, 42, 42],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 180,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Draugr's Tibia",
+        "rarity": 2,
+        "type": "Bone",
+        "totalMagimins": 132,
+        "magimins": [0, 0, 55, 55, 22],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 184,
+        "location": "Arctic"
+    },
+    {
+        "name": "Lich's Femur",
+        "rarity": 0,
+        "type": "Bone",
+        "totalMagimins": 168,
+        "magimins": [0, 0, 70, 70, 28],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 247,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Bubble Ooze",
+        "rarity": 4,
+        "type": "Slime",
+        "totalMagimins": 42,
+        "magimins": [9, 9, 12, 12, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 60,
+        "location": "Mushroom Mire"
+    },
+    {
+        "name": "Copper Dollop",
+        "rarity": 3,
+        "type": "Slime",
+        "totalMagimins": 60,
+        "magimins": [15, 15, 15, 15, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 95,
+        "location": "Storm Plains"
+    },
+    {
+        "name": "Silver Dollop",
+        "rarity": 0,
+        "type": "Slime",
+        "totalMagimins": 96,
+        "magimins": [24, 24, 24, 24, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 138,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Gold Dollop",
+        "rarity": 3,
+        "type": "Slime",
+        "totalMagimins": 132,
+        "magimins": [33, 33, 33, 33, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 176,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Platinum Slime",
+        "rarity": 3,
+        "type": "Slime",
+        "totalMagimins": 168,
+        "magimins": [42, 42, 42, 42, 0],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 178,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Avalanche Cricket",
+        "rarity": 1,
+        "type": "Bug",
+        "totalMagimins": 112,
+        "magimins": [24, 24, 32, 32, 0],
+        "attributes": [1, -1, 0, 0, 0],
+        "price": 140,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Frost Hopper",
+        "rarity": 1,
+        "type": "Bug",
+        "totalMagimins": 154,
+        "magimins": [33, 33, 44, 44, 0],
+        "attributes": [1, -1, 0, 0, 0],
+        "price": 196,
+        "location": "Arctic"
+    },
+    {
+        "name": "Hocus Locust",
+        "rarity": 4,
+        "type": "Bug",
+        "totalMagimins": 224,
+        "magimins": [28, 28, 140, 28, 0],
+        "attributes": [1, -1, 0, 0, 0],
+        "price": 287,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Shallow Grave Enoki",
+        "rarity": 3,
+        "type": "Fungus",
+        "totalMagimins": 192,
+        "magimins": [32, 64, 64, 32, 0],
+        "attributes": [0, -1, -1, 0, 0],
+        "price": 200,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Funeral Pyre Enoki",
+        "rarity": 4,
+        "type": "Fungus",
+        "totalMagimins": 264,
+        "magimins": [88, 88, 44, 44, 0],
+        "attributes": [0, -1, -1, 0, 0],
+        "price": 280,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Mass Grave Enoki",
+        "rarity": 3,
+        "type": "Fungus",
+        "totalMagimins": 336,
+        "magimins": [56, 112, 112, 56, 0],
+        "attributes": [0, -1, -1, 0, 0],
+        "price": 386,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Underworld Pomegranate",
+        "rarity": 0,
+        "type": "Fruit",
+        "totalMagimins": 224,
+        "magimins": [28, 28, 28, 140, 0],
+        "attributes": [1, 0, 0, -1, 0],
+        "price": 299,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Charredonnay",
+        "rarity": 3,
+        "type": "Fruit",
+        "totalMagimins": 144,
+        "magimins": [48, 0, 48, 24, 24],
+        "attributes": [-1, 0, 0, 0, 0],
+        "price": 260,
+        "location": "Sulfuric Falls"
+    },
+    {
+        "name": "Xeno Noir",
+        "rarity": 4,
+        "type": "Fruit",
+        "totalMagimins": 198,
+        "magimins": [66, 0, 66, 33, 33],
+        "attributes": [-1, 0, 0, 0, 0],
+        "price": 212,
+        "location": "Crater"
+    },
+    {
+        "name": "Sinfandel",
+        "rarity": 0,
+        "type": "Fruit",
+        "totalMagimins": 280,
+        "magimins": [80, 0, 80, 80, 40],
+        "attributes": [-1, 0, 0, 0, 0],
+        "price": 362,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Squid Vine",
+        "rarity": 3,
+        "type": "Plant",
+        "totalMagimins": 70,
+        "magimins": [20, 20, 15, 0, 15],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 135,
+        "location": "Ocean Coasts"
+    },
+    {
+        "name": "Harpy's Snare",
+        "rarity": 4,
+        "type": "Plant",
+        "totalMagimins": 96,
+        "magimins": [24, 24, 24, 0, 24],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 150,
+        "location": "Crystalline Forest"
+    },
+    {
+        "name": "Death's Embrace",
+        "rarity": 4,
+        "type": "Plant",
+        "totalMagimins": 132,
+        "magimins": [33, 33, 33, 0, 33],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 196,
+        "location": "Arctic"
+    },
+    {
+        "name": "Witchbramble Vine",
+        "rarity": 3,
+        "type": "Plant",
+        "totalMagimins": 168,
+        "magimins": [42, 42, 42, 0, 42],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 210,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Arcane Truffle",
+        "rarity": 4,
+        "type": "Fungus",
+        "totalMagimins": 168,
+        "magimins": [0, 42, 42, 42, 42],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 212,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Mote of Mana",
+        "rarity": 4,
+        "type": "Pure Mana",
+        "totalMagimins": 75,
+        "magimins": [15, 15, 15, 15, 15],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 130,
+        "location": "Shadow Steppe"
+    },
+    {
+        "name": "Ember of Mana",
+        "rarity": 4,
+        "type": "Pure Mana",
+        "totalMagimins": 120,
+        "magimins": [24, 24, 24, 24, 24],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 165,
+        "location": "Ice Craggs"
+    },
+    {
+        "name": "Mana Blaze",
+        "rarity": 0,
+        "type": "Pure Mana",
+        "totalMagimins": 150,
+        "magimins": [50, 40, 30, 20, 10],
+        "attributes": [0, 1, 1, 0, 0],
+        "price": 234,
+        "location": "Dragon Oasis"
+    },
+    {
+        "name": "Spark of Mana",
+        "rarity": 4,
+        "type": "Essence",
+        "totalMagimins": 165,
+        "magimins": [33, 33, 33, 33, 33],
+        "attributes": [0, 0, 0, 0, 0],
+        "price": 194,
+        "location": "Crater"
+    },
+    {
+        "name": "Dazzling Mana",
+        "rarity": 4,
+        "type": "Pure Mana",
+        "totalMagimins": 210,
+        "magimins": [42, 42, 42, 42, 42],
+        "attributes": [0, 1, 1, 0, 0],
+        "price": 345,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Mana Conflagration",
+        "rarity": 4,
+        "type": "Pure Mana",
+        "totalMagimins": 275,
+        "magimins": [35, 45, 55, 65, 75],
+        "attributes": [0, 0, -1, -1, 0],
+        "price": 316,
+        "location": "Arctic"
+    },
+    {
+        "name": "Mana Maelstrom",
+        "rarity": 4,
+        "type": "Pure Mana",
+        "totalMagimins": 210,
+        "magimins": [98, 28, 28, 28, 28],
+        "attributes": [0, 0, 0, 1, 1],
+        "price": 375,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Mana Vortex",
+        "rarity": 0,
+        "type": "Pure Mana",
+        "totalMagimins": 210,
+        "magimins": [28, 98, 28, 28, 28],
+        "attributes": [1, 0, 0, 0, 1],
+        "price": 360,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Mana Prism",
+        "rarity": 4,
+        "type": "Essence",
+        "totalMagimins": 210,
+        "magimins": [28, 28, 98, 28, 28],
+        "attributes": [0, 1, 0, 1, 0],
+        "price": 383,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Mana Heart",
+        "rarity": 4,
+        "type": "Essence",
+        "totalMagimins": 210,
+        "magimins": [28, 28, 28, 98, 28],
+        "attributes": [1, 0, 1, 0, 0],
+        "price": 405,
+        "location": "Magical Wasteland"
+    },
+    {
+        "name": "Mana Singularity",
+        "rarity": 4,
+        "type": "Pure Mana",
+        "totalMagimins": 210,
+        "magimins": [28, 28, 28, 28, 98],
+        "attributes": [0, 0, 1, 0, 1],
+        "price": 475,
+        "location": "Magical Wasteland"
+    }
+]
